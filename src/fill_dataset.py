@@ -1,8 +1,8 @@
 import pandas as pd
 import requests
 
-INPUT_FILE = "dataset/data_science_project.csv"
-OUTPUT_FILE = "dataset/data_science_project_full.csv"
+INPUT_FILE = "dataset/data_v2.csv"
+OUTPUT_FILE = "dataset/data_v2_full.csv"
 
 LAT = 52.408521
 LON = 12.562565
